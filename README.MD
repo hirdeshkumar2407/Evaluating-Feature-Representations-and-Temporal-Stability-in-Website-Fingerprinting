@@ -1,5 +1,3 @@
-This README provides an overview of the research project conducted in the **Homework_2.ipynb** notebook, which evaluates methodologies for identifying encrypted website traffic through side-channel analysis.
-
 # Evaluating Feature Representations and Temporal Stability in Website Fingerprinting
 
 ## Overview
